@@ -64,3 +64,6 @@ python ReportGeneration.py <json file location>
 
 Follow these steps sequentially to analyze financial data effectively and generate actionable insights.
 
+The final pdf report looks like the following
+![Screenshot 2024-11-08 121425](https://github.com/user-attachments/assets/c13fcbbb-153c-44f5-b32f-ac7489457e6d)
+
