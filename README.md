@@ -1,6 +1,6 @@
 # Bankruptcy Prediction Using NLP
 
-This application leverages state-of-the-art natural language processing (NLP) techniques for bankruptcy prediction. It uses advanced models for knowledge extraction, summarization, and knowledge graph representation to generate insightful reports about financial risks.
+This is a group project aimed at developing an innovative bankruptcy prediction model combining natural language processing and structured financial analysis. The project involves preprocessing the MD&A sections of financial reports from Indian companies, utilizing advanced NLP techniques to summarize and extract structured information. A knowledge graph is built in Neo4j from the extracted data and enriched with financial ratios and market indicators (e.g., VIX index). This data is further integrated with embeddings generated using the TransE model for robust bankruptcy classification.
 
 ## Models Used
 
